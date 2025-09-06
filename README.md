@@ -97,7 +97,7 @@ node src/index.js
 ```
 
 
-[Support Server]([https://discord.gg/techpoint-1016942011024158782](https://discord.gg/w7Wdw8EcRX) - Discord-Bot's Support Server Invite
+[Support Server](https://discord.gg/w7Wdw8EcRX) - Discord-Bot's Support Server Invite
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
